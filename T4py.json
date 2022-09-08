@@ -1,24 +1,6 @@
 {
     "sites": [
         {
-            "key": "csp_Kunyu77",
-            "name": "️酷云七七",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "360",
-            "name": "360(S P)",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "t4public",
             "name": "T4推荐",
             "type": 4,
@@ -117,7 +99,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py"
         },
         {
             "key": "py_cctv",
@@ -127,7 +109,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cctv.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cctv.py"
         },
         {
             "key": "py_czspp",
@@ -137,7 +119,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_czspp.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_czspp.py"
         },
         {
             "key": "py_zxzj",
@@ -147,7 +129,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zxzj.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zxzj.py"
         },
         {
             "key": "py_voflix",
@@ -157,7 +139,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_voflix.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_voflix.py"
         },
         {
             "key": "py_bilimd",
@@ -167,7 +149,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilimd.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilimd.py"
         },
         {
             "key": "py_gimytv",
@@ -177,7 +159,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_gimytv.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_gimytv.py"
         },
         {
             "key": "py_genmov",
@@ -187,7 +169,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_genmov.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_genmov.py"
         },
         {
             "key": "py_huya",
@@ -197,7 +179,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_huya.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_huya.py"
         },
         {
             "key": "py_douyu",
@@ -207,7 +189,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_douyu.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_douyu.py"
         },
         {
             "key": "py_cokemv",
@@ -217,7 +199,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cokemv.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cokemv.py"
         },
         {
             "key": "py_xmaomi",
@@ -227,7 +209,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_xmaomi.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_xmaomi.py"
         },
         {
             "key": "py_zhaozy",
@@ -237,7 +219,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zhaozy.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zhaozy.py"
         },
         {
             "key": "py_pansou",
@@ -247,7 +229,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_pansou.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_pansou.py"
         },
         {
             "key": "push_agent",
@@ -257,7 +239,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://120.53.102.254/tvb/dl?url=https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_ali.py"
+            "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_ali.py"
         }
     ],
     "parses": [
